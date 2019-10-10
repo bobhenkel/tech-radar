@@ -1,0 +1,7 @@
+name,ring,quadrant,isNew,description
+direnv,adopt,tools,TRUE,"<p>Simple but but very handy <strong><a href=""https://direnv.net/"">direnv</a></strong>, direnv is an extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
+
+Use cases
+Load 12factor apps environment variables
+Create per-project isolated development environments
+Load secrets for deployment</p>"
